@@ -1,0 +1,26 @@
+Ganancia Neta .- (fuente: https://debitoor.es/glosario/ganancia-neta)
+		La ganancia neta es el resultado de restar, a todos los ingresos
+		de la empresa, los gastos derivados de la actividad.
+		
+		Cuando se habla de ganancia neta en un negocio se entiende,
+		básicamente, el resultado de los ingresos una vez se le restan los 
+		gastos, incluidos los impuestos.
+
+		La ganancia neta, también conocida como la utilidad neta o beneficio
+		neto, expresa el rendimiento total del negocio en relación a la 
+		explotación de sus recursos.
+
+		La ganancia neta se suele medir anualmente. Es mediante la comparación
+		con la ganancia neta de un periodo anterior como una empresa puede
+		valorar su rentabilidad durante el tiempo.
+
+		Para los accionistas, la ganancia neta es una buena herramienta
+		para estimar el rendimiento de sus acciones.
+
+		Su cálculo se optiene al restarle a las ganancias brutas todos los
+		gastos de la empresa: impuestos, intereses y el resto de gastos (in-
+		cluido los de depreciación).
+
+		Cabe advertir que este cálculo generalizado depende de múltiples 
+		variables contables y al tratamiento que se le dé, por lo que el 
+		resultado puede variar de una forma u otra.
